@@ -11,7 +11,7 @@ A lightweight, terminal-based tool to generate cryptographically secure password
 ## 🛠️ Installation (Arch Linux)
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/yagizylldrm/password-generator-python.git](https://github.com/yagizylldrm/password-generator-python.git)
+   git clone https://github.com/yagizylldrm/password-generator-python.git](https://github.com/yagizylldrm/password-generator-python.git
    cd password-generator-python
 
 2. **Install requirements:**
