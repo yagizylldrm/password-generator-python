@@ -16,9 +16,12 @@ A lightweight, terminal-based tool to generate cryptographically secure password
 
 2. **Install requirements:**
    ```bash
-   sudo pacman -S xclip (not needed if you have a clipboard manager)
-   pip install pyperclip
+   sudo pacman -S xclip
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
    ```
+   
 3. **Run:**
    ```bash
    python generator.py
